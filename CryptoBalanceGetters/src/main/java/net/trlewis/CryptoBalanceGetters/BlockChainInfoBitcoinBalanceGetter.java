@@ -6,6 +6,7 @@ import com.google.gson.JsonObject;
 import net.trlewis.CryptoInfo.AddressBalance;
 import net.trlewis.CryptoInfo.CryptoStats;
 import net.trlewis.CryptoInfo.CryptoSymbol;
+import net.trlewis.CryptoValueGetters.GetRequestHelper;
 import org.jetbrains.annotations.Nullable;
 
 import java.math.BigDecimal;

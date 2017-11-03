@@ -9,5 +9,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="CryptoBalanceGetters" />
     <orderEntry type="module" module-name="CryptoInfo" />
+    <orderEntry type="module" module-name="CryptoValueGetters" />
   </component>
 </module>
