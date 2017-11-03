@@ -1,4 +1,4 @@
-package main.java.net.trlewis.CryptocurrencyInfo;
+package main.java.net.trlewis.CryptoInfo;
 
 public class CryptoSymbolNames
 {
