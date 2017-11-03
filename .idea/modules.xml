@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CryptoBalanceGetters/src/CryptoBalanceGetters.iml" filepath="$PROJECT_DIR$/CryptoBalanceGetters/src/CryptoBalanceGetters.iml" />
       <module fileurl="file://$PROJECT_DIR$/CryptocurrencyBalanceGetters/CryptoBalanceGetters.iml" filepath="$PROJECT_DIR$/CryptocurrencyBalanceGetters/CryptoBalanceGetters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CryptoInfo/CryptoInfo.iml" filepath="$PROJECT_DIR$/CryptoInfo/CryptoInfo.iml" />
       <module fileurl="file://$PROJECT_DIR$/CryptocurrencyInfo/CryptoInfo.iml" filepath="$PROJECT_DIR$/CryptocurrencyInfo/CryptoInfo.iml" />
     </modules>
   </component>

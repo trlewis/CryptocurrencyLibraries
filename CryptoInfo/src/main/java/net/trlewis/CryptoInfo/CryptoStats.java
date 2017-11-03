@@ -1,4 +1,4 @@
-package main.java.net.trlewis.CryptoInfo;
+package net.trlewis.CryptoInfo;
 
 public class CryptoStats
 {
