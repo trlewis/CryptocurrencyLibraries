@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/CryptocurrencyBalanceGetters/CryptoBalanceGetters.iml" filepath="$PROJECT_DIR$/CryptocurrencyBalanceGetters/CryptoBalanceGetters.iml" />
       <module fileurl="file://$PROJECT_DIR$/CryptoInfo/CryptoInfo.iml" filepath="$PROJECT_DIR$/CryptoInfo/CryptoInfo.iml" />
       <module fileurl="file://$PROJECT_DIR$/CryptocurrencyInfo/CryptoInfo.iml" filepath="$PROJECT_DIR$/CryptocurrencyInfo/CryptoInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CryptoSandbox/CryptoSandbox.iml" filepath="$PROJECT_DIR$/CryptoSandbox/CryptoSandbox.iml" />
     </modules>
   </component>
 </project>

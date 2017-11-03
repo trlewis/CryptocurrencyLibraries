@@ -2,6 +2,9 @@ package net.trlewis.CryptoInfo;
 
 import java.math.BigDecimal;
 
+/**
+ * Simple holder for basic information about a cryptocurrency.
+ */
 public class AddressBalance
 {
     private String address;

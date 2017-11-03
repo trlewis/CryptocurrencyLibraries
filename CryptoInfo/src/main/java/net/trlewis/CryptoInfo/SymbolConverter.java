@@ -1,5 +1,7 @@
 package net.trlewis.CryptoInfo;
 
+import org.jetbrains.annotations.Nullable;
+
 import java.util.Objects;
 
 public class SymbolConverter
@@ -7,6 +9,7 @@ public class SymbolConverter
     /**
      * Gets the full name of the cryptocurrency symbol passed into it
      */
+    @Nullable
     public static String symbolToFullName(CryptoSymbol symbol)
     {
         String name = null;
@@ -25,6 +28,9 @@ public class SymbolConverter
             case LTC:
                 name = CryptoSymbolNames.Litecoin;
                 break;
+            case DOGE:
+                name = CryptoSymbolNames.Doge;
+                break;
             case DASH:
                 name = CryptoSymbolNames.Dash;
                 break;
@@ -40,6 +46,7 @@ public class SymbolConverter
      * @param symbolName The name of the symbol to attempt to convert
      * @return null if the symbolName was not understood, the corresponding CryptoSymbol if it was.
      */
+    @Nullable
     public static CryptoSymbol tryConvertNameToSymbol(String symbolName)
     {
         //replace all whitespace with nothing and convert to lower case
